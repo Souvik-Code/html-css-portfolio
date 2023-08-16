@@ -30,12 +30,12 @@
   width: 100vw;
   height: 70vh;
 }
-.title-text {
+/* .title-text {
   color: white;
   position: absolute;
   bottom: 15rem;
   left: 19rem;
-}
+} */
 
 .title-text h1 {
   letter-spacing: 5px;
